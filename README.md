@@ -2,7 +2,7 @@
 
 A portfolio of all the data analysis projects I have worked on:
 
-| Project| Description | Visualization | Descriptive Statistics | Inferential Statistics | Machine Learning
+| Project| Description | Visualization | Descriptive Statistics | Inferential Statistics | Machine Learning |
 |--------|------------------------------------|
 | [Diamond Prices Data Analysis](https://github.com/apm177/Data-Analysis-Portfolio/blob/main/Project%20%231%20-%20Diamond%20Prices%20Data%20Analysis.ipynb) | When judging the value of a diamond, gem experts follow the "4Cs" criteria, where they analyze 4 attributes of a diamond: Cut, Color, Clarity and Carat Weight. This project aims to see which attribute has the most influence on a diamond's worth. |✅|✅|✅|
 
